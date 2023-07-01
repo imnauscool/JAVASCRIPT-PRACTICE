@@ -10,4 +10,4 @@ console.log(sum(2, 5));
 function length(str) {
   return str.length;
 }
-console.log(length("navneett"));
+console.log(length("navneet"));
