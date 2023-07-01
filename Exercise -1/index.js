@@ -5,3 +5,9 @@ function sum(num1, num2) {
 }
 
 console.log(sum(2, 5));
+
+//2. Write a function that takes a string as an argument and returns its length.
+function length(str) {
+  return string.length;
+}
+console.log(length("navneett"));
